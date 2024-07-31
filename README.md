@@ -1,3 +1,1 @@
-# 22BIT0333
-# 22BIT0348
-# 22BIT0631
+This is a basic website for a food ordering platform.
