@@ -1,1 +1,1 @@
-This is a basic website for a food ordering platform.
+# This is a basic website for a food ordering platform.
